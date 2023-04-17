@@ -11,6 +11,7 @@ Files will be loacted in diffrend directory if you install browser using differe
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you installed browser using .deb package the files will be located in directory below:
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /usr/share/applications/opera.desktop
 <br>
 In file you must find "Exec=. . ." and then add --lang=pl %U at the end of the line
