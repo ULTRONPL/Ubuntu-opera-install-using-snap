@@ -2,6 +2,9 @@
 opera install using snap with polish language
 <br>
 <br>
+files will be loacted in diffrend directory if you install browser using:
+- snap
+- .deb package 
 sudo nano /var/lib/snapd/desktop/applications/opera_opera.desktop
 <br>
 <br>
