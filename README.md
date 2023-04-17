@@ -2,7 +2,7 @@
 opera install using snap with polish language
 <br>
 <br>
-&nbsp; Files will be loacted in diffrend directory if you install browser using differend methots.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Files will be loacted in diffrend directory if you install browser using differend methots.
 <br>
 &nbsp<space><space><space> If you intalled browser using snap the file will be in directory below:
 <br>
