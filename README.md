@@ -4,6 +4,7 @@ opera install using snap with polish language
 <br>
 Files will be loacted in diffrend directory if you install browser using differend methots.
 <br>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intalled browser using snap the file will be in directory below:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /var/lib/snapd/desktop/applications/opera_opera.desktop
