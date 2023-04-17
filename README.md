@@ -20,7 +20,7 @@ Files will be loacted in diffrend directory if you install browser using differe
 It should not be any problems with double "%U" in "Exec=" line, but if your language is not loading or you have any other problems try applying the instrutions below they might help you 
 <br>
 <br>
-In file you must find "Exec=. . ." and then add --lang=pl %U at the end of the line
+In file you must find "Exec=. . ." and then add "--lang=pl %U" at the end of the line
 <br>
 you must remove "%U" behind "--lang=pl" or add "--lang=pl" behind existing "%U" beacuse there can't be two "%U" in one "Exec" command
 <br>
