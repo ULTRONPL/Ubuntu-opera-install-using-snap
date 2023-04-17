@@ -4,11 +4,11 @@ opera install using snap with polish language
 <br>
 files will be loacted in diffrend directory if you install browser using:
 - snap
+- - /var/lib/snapd/desktop/applications/opera_opera.desktop
 - .deb package 
-sudo nano /var/lib/snapd/desktop/applications/opera_opera.desktop
 <br>
 <br>
-Exec=. . . . . . . . . &nbsp; /usr/bin/snap run opera --lang=pl %U
+Exec=. . . . . . . . . . --lang=pl %U
 <br>
 ![opera pl language snap](https://user-images.githubusercontent.com/98317764/231872780-7ba352c1-e6dc-41f7-a5bc-cb6737f0e5db.PNG)
 <br>
