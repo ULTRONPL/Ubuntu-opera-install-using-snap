@@ -16,6 +16,8 @@ Files will be loacted in diffrend directory if you install browser using differe
 <br>
 <br>
 <br>
+It should not be any problems with double "%U" in "Exec=" line, but if your language is not loading or you have any other problems try applying the instrutions below they might help you 
+<br>
 In file you must find "Exec=. . ." and then add --lang=pl %U at the end of the line
 <br>
 you must remove "%U" behind "--lang=pl" or add "--lang=pl" behind existing "%U" beacuse there can't be two "%U" in one "Exec" command
@@ -28,4 +30,4 @@ This is example of the bad one
 <br>
 ![example1](https://user-images.githubusercontent.com/98317764/232560992-fc811ad9-02e0-4837-b504-36afcc2e4dcc.PNG)
 <!--[opera pl language snap](https://user-images.githubusercontent.com/98317764/231872780-7ba352c1-e6dc-41f7-a5bc-cb6737f0e5db.PNG)-->
-sudo systemctl restart snapd.service
+
