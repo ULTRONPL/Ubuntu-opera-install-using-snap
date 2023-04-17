@@ -9,9 +9,10 @@ If you intalled browser using snap the file will be in directory below:
 /var/lib/snapd/desktop/applications/opera_opera.desktop
 <br>
 If you installed browser using .deb package the files will be located in directory below:
-- - /v
-
+/usr/share/applications/opera.desktop
 <br>
+In file you must find "Exec=. . ." and then add --lang=pl %U (you must remove "%U" behind "--lang=pl" or add "--lang=pl" behind existing "%U" beacuse there can't be two "%U" in one "Exec" command )
+
 <br>
 Exec=. . . . . . . . . . --lang=pl %U
 <br>
