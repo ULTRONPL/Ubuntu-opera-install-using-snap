@@ -17,7 +17,7 @@ Files will be loacted in diffrend directory if you install browser using differe
 <br>
 <br>
 <br>
-It should not be any problems with double "%U" in "Exec=" line, but if your language is not loading or you have any other problems try applying the instrutions below they might help you 
+It should not be any problems with double "%U" in "Exec=" line, but if your language is not loading or you have any other problems try applying the instrutions below it might help you 
 <br>
 <br>
 In file you must find "Exec=. . ." and then add "--lang=pl %U" at the end of the line
