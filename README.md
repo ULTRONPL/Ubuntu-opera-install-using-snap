@@ -22,7 +22,7 @@ It should not be any problems with double "%U" in "Exec=" line, but if your lang
 <br>
 In file you must find "Exec=. . ." and then add "--lang=pl %U" at the end of the line
 <br>
-you must remove "%U" behind "--lang=pl" or add "--lang=pl" behind existing "%U" beacuse there can't be two "%U" in one "Exec" command
+after that you must remove "%U" behind the "--lang=pl" or add "--lang=pl" behind existing "%U" beacuse there can't be two "%U" in one "Exec" command
 <br>
 This is example of the right one
 <br>
