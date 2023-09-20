@@ -27,6 +27,7 @@ In file you must find "Exec=. . ." and then add "--lang=pl %U" at the end of the
 after that you must remove "%U" from behind the "--lang=pl" or add "--lang=pl" behind existing "%U" beacuse there can't be two "%U" in one "Exec" command line
 <br>
 <br>
+<br>
 This is example of the right one
 <br>
 
