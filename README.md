@@ -36,7 +36,7 @@ This is example of the bad one
 <br>
 It should not be any problems with double "%U" in "Exec=" line, but if your language is not loading or you have any other problems try applying the instrutions below it might help you 
 <br>
-<h1> Flatpack </h1>
+<h2> Flatpack </h2>
 <br>
 First you need to install flatpack and Opera
 <br>
