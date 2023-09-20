@@ -50,7 +50,8 @@ Flatpack install
 <br>
 Opera install
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `flatpak install flathub com.opera.Opera`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+`flatpak install flathub com.opera.Opera`
 <br>
 next you need to veryfiy that opera was installed sucessfully
 <br>
