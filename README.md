@@ -1,10 +1,10 @@
-Ubuntu-opera-install-using-snap
+#Ubuntu-opera-install-using-snap
 opera install using snap with polish language
 <br>
 <br>
 Files will be loacted in diffrend directory if you install browser using differend methots.
 <br>
-"apt" and ".deb packages"
+<h1> "apt" and ".deb packages" </h1>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intalled browser using snap the file will be in directory below:
 <br>
@@ -36,7 +36,7 @@ This is example of the bad one
 <br>
 It should not be any problems with double "%U" in "Exec=" line, but if your language is not loading or you have any other problems try applying the instrutions below it might help you 
 <br>
-<h2> Flatpack
+<h1> Flatpack </h1>
 <br>
 First you need to install flatpack and Opera
 <br>
