@@ -9,7 +9,7 @@ Files will be loacted in diffrend directory if you install browser using differe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intalled browser using snap the file will be in directory below:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /var/lib/snapd/desktop/applications/opera_opera.desktop
-<br>
+## ads<br>
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you installed browser using .deb package the files will be located in directory below:
