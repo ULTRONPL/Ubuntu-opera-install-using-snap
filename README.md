@@ -38,6 +38,7 @@ It should not be any problems with double "%U" in "Exec=" line, but if your lang
 <br>
 <br>
 ## "Flatpack"
+<br>
 First you need to install flatpack and Opera
 <br>
 Flatpack install
