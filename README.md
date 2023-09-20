@@ -7,7 +7,6 @@ Files will be loacted in diffrend directory if you install browser using differe
 <br>
 <h2> "apt" and ".deb packages" </h2>
 <br>
-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intalled browser using snap the file will be in directory below:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /var/lib/snapd/desktop/applications/opera_opera.desktop
@@ -40,7 +39,6 @@ It should not be any problems with double "%U" in "Exec=" line, but if your lang
 <br>
 <br>
 <h2> Flatpack </h2>
-<br>
 <br>
 First you need to install flatpack and Opera
 <br>
