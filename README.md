@@ -63,4 +63,4 @@ Finally you change language using this command
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flatpak override com.opera.Opera --env=LANG=pl.UTF-8
 <br>
-after that you sucessfully changet language in opera
+after that you sucessfully changed language in opera
