@@ -1,4 +1,4 @@
-#Ubuntu-opera-install-using-snap
+<h1> Ubuntu-opera-install-using-snap </h1>
 opera install using snap with polish language
 <br>
 <br>
