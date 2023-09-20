@@ -4,7 +4,7 @@ opera install using snap with polish language
 <br>
 Files will be loacted in diffrend directory if you install browser using differend methots.
 <br>
-<h1> "apt" and ".deb packages" </h1>
+<h2> "apt" and ".deb packages" </h2>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intalled browser using snap the file will be in directory below:
 <br>
