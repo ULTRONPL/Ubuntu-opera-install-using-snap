@@ -40,7 +40,6 @@ This is example of the bad one
 ![example1](https://user-images.githubusercontent.com/98317764/232560992-fc811ad9-02e0-4837-b504-36afcc2e4dcc.PNG)
 <!--[opera pl language snap](https://user-images.githubusercontent.com/98317764/231872780-7ba352c1-e6dc-41f7-a5bc-cb6737f0e5db.PNG)-->
 <br>
-<br>
 <h2> Flatpack </h2>
 <br>
 First you need to install flatpack and Opera
