@@ -44,7 +44,7 @@ First you need to install flatpack and Opera
 <br>
 Flatpack install
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 'sudo apt install flatpak'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ('sudo apt install flatpak')
 <br>
 Opera install
 <br>
