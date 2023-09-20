@@ -56,7 +56,7 @@ next you need to veryfiy that opera was installed sucessfully
 <br>
 flatpak list | grep opera
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this is output if opera was installed sucessfully
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--this is output if opera was installed sucessfully-->
 <br>
 <br>
 Finally you change language using this command
