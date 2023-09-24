@@ -2,20 +2,22 @@
 
 Instalacja w nowszych wersjach > Ubuntu 18.10
 
-	sudo apt install flatpak
+	sudo apt install flatpak     //tą komendą instalujesz flatpak
 
-	flatpak install flathub com.opera.Opera
+	flatpak install flathub com.opera.Opera     //tą komendą instalujesz operę
 
 Instalacja w starszych wersjach ubuntu < Ubuntu 18.10
 
-	sudo add-apt-repository ppa:flatpak/stable
-	sudo apt update
-	sudo apt install flatpak
+	sudo add-apt-repository ppa:flatpak/stable     //tą komendą dodajesz repozytorium flatpak to zbioru istniejących zeporytoriów
+	sudo apt update                               //tą komendą aktualizujesz repozytorium	
+	sudo apt install flatpak                     //tą komendą instalujesz flatpak
+
+	flatpak install flathub com.opera.Opera     //tą komendą instalujesz operę
 
 ===Zmiana języka===
 
-	flatpak list | grep opera (jeśli wyświetli się "com.opera.Opera" to znaczy że opera jest poprawnie zainstalowana)
+	flatpak list | grep opera     //jeśli wyświetli się "com.opera.Opera" to znaczy że opera jest poprawnie zainstalowana
 
-	flatpak override com.opera.Opera --env=LANG=pl.UTF-8
+	flatpak override com.opera.Opera --env=LANG=pl.UTF-8     //zmienia właściwości odpalanej paczki
 
-	URUCHOM PONOWNIE OPERE i powinno zadziałać
+	uruchamiasz ponownie operę
