@@ -1,0 +1,23 @@
+===Instalacja===
+
+	plik .deb pobierasz z oficjalnej strony Opera "https://www.opera.com/"
+
+	następnie go uruchamiasz i instalujesz
+
+===Zmiana języka===
+
+	cd /usr/share/applications     //tą komendą przechodzisz do folderu /usr/share/applications/
+
+	sudo nano opera.desktop     //tą komędą otwierasz edytor tekstowy
+
+	klikasz "ctrl + w" oraz wpisujesz "Exec="     //tą komendą wyszukujesz w pliku linijkę która zawiera "Exec="
+
+	na końcu dodajesz "--lang=pl"
+	
+	usuwasz "%U", ma być tylko jedno "%U" w linijce "Exec=..." (zdjęcie poprawnego wykonania w tym samym folderze co ta instrukcja)
+
+	klikasz "ctrl + o"      //tą komędą zapisujesz plik
+	
+	klikasz "ctrl + w"     //tą komędą zamykasz plik
+	
+	uruchamiasz ponownie operę
