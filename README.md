@@ -1,3 +1,6 @@
+Dostępny jest plik .zip ze wszystkimi metodami oraz przykładami
+<br>
+<br>
 <h1> Ubuntu-opera-install-using-snap </h1>
 opera install using snap with polish language
 <br>
