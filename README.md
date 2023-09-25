@@ -10,19 +10,19 @@ Files will be loacted in diffrend directory if you install browser using differe
 <br>
 <h2> "apt" and ".deb packages" </h2>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intalled browser using snap the file will be in directory below:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you intalled browser using snap the file will be in directory below:
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /var/lib/snapd/desktop/applications/opera_opera.desktop
-<br>
-<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you installed browser using .deb package the files will be located in directory below:
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /usr/share/applications/opera.desktop
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /var/lib/snapd/desktop/applications/opera_opera.desktop
 <br>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you installed browser using flatpack you need to fallow instruction below:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you installed browser using .deb package the files will be located in directory below:
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /usr/share/applications/opera.desktop
+<br>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you installed browser using flatpack you need to fallow instruction below:
 <br>
 <br>
 In file you must find "Exec=. . ." and then add "--lang=pl %U" at the end of the line
@@ -49,21 +49,21 @@ First you need to install flatpack and Opera
 <br>
 Flatpack install
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sudo apt install flatpak
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sudo apt install flatpak
 <br>
 Opera install
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flatpak install flathub com.opera.Opera
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flatpak install flathub com.opera.Opera
 <br>
 next you need to veryfiy that opera was installed sucessfully
 <br>
 flatpak list | grep opera
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--this is output if opera was installed sucessfully-->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--this is output if opera was installed sucessfully-->
 <br>
 <br>
 Finally you change language using this command
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flatpak override com.opera.Opera --env=LANG=pl.UTF-8
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flatpak override com.opera.Opera --env=LANG=pl.UTF-8
 <br>
 after that you sucessfully changed language in opera
