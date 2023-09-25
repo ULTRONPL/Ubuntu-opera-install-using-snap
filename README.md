@@ -57,7 +57,7 @@ Opera install
 <br>
 next you need to veryfiy that opera was installed sucessfully
 <br>
-flatpak list | grep opera
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flatpak list | grep opera
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--this is output if opera was installed sucessfully-->
 <br>
