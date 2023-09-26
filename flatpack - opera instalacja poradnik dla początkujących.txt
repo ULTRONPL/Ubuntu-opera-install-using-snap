@@ -4,6 +4,12 @@ Instalacja w nowszych wersjach > Ubuntu 18.10
 
 	sudo apt install flatpak     //tą komendą instalujesz flatpak
 
+	sudo apt install gnome-software-plugin-flatpak     //tą komendą dodajesz plugin do flatpak
+
+	flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo     //tą komendą dodajesz repozytorium flathub to flatpack
+
+	restart komputera	
+
 	sudo flatpak install flathub com.opera.Opera     //tą komendą instalujesz operę
 
 Instalacja w starszych wersjach ubuntu < Ubuntu 18.10
@@ -11,6 +17,12 @@ Instalacja w starszych wersjach ubuntu < Ubuntu 18.10
 	sudo add-apt-repository ppa:flatpak/stable     //tą komendą dodajesz repozytorium flatpak to zbioru istniejących zeporytoriów
 	sudo apt update                               //tą komendą aktualizujesz repozytorium	
 	sudo apt install flatpak                     //tą komendą instalujesz flatpak
+
+	sudo apt install gnome-software-plugin-flatpak     //tą komendą dodajesz plugin do flatpak
+
+	flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo     //tą komendą dodajesz repozytorium flathub to flatpack
+
+	restart komputera
 
 	flatpak install flathub com.opera.Opera     //tą komendą instalujesz operę
 
