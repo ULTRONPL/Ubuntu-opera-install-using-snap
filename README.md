@@ -1,3 +1,6 @@
+Poradnik w plikach jest do poprawy, nie działa jak będę miał czas to to naprawie 
+<br>
+<br>
 Dostępny jest plik .zip ze wszystkimi metodami oraz przykładami
 <br>
 <br>
