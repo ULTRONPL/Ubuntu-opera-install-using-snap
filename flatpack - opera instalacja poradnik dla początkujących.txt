@@ -8,9 +8,9 @@ Instalacja w nowszych wersjach > Ubuntu 18.10
 
 	flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo     //tą komendą dodajesz repozytorium flathub to flatpack
 
-	restart komputera	
-
 	sudo flatpak install flathub com.opera.Opera     //tą komendą instalujesz operę
+
+	Jeśli Opera się nie instaluje, to należy uruchomić ponownie komputer w celu zaktualizowania listy repozytoriów
 
 Instalacja w starszych wersjach ubuntu < Ubuntu 18.10
 
@@ -22,9 +22,9 @@ Instalacja w starszych wersjach ubuntu < Ubuntu 18.10
 
 	flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo     //tą komendą dodajesz repozytorium flathub to flatpack
 
-	restart komputera
-
 	flatpak install flathub com.opera.Opera     //tą komendą instalujesz operę
+
+	Jeśli Opera się nie instaluje, to należy uruchomić ponownie komputer w celu zaktualizowania listy repozytoriów
 
 ===Zmiana języka===
 
