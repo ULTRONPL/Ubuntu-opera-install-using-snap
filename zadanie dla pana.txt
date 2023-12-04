@@ -13,7 +13,7 @@ flatpack install
 1.6
 	flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 1.7
-	restart
+	restart komputera
 
 
 2.1
@@ -27,7 +27,7 @@ apt install
 1.1
 	https://download.opera.com/download/get/?partner=www&opsys=Linux
 1.2
-	należy pobrać i zainstaluj
+	należy pobrać i zainstalować
 
 
 snapd
