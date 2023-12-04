@@ -2,12 +2,17 @@ flatpack install
 
 1.1
 	sudo apt install flatpak
-      	sudo add-apt-repository ppa:flatpak/stable      sudo apt update      sudo apt install flatpak
 1.2
-	sudo apt install gnome-software-plugin-flatpak
-1.3
-	flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+      	sudo add-apt-repository ppa:flatpak/stable     
+1.3 
+	sudo apt update      
 1.4
+	sudo apt install flatpak
+1.5
+	sudo apt install gnome-software-plugin-flatpak
+1.6
+	flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+1.7
 	restart
 
 
